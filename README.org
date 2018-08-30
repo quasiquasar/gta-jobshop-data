@@ -4,11 +4,11 @@
 #+DATE: 
 #+OPTIONS:   H:5 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t author:nil 
 
-* Experimental Data from "Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling"
+* Introduction
 
-This repository contains all computational data used in the paper "Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling" by Oleg V. Shylo and Hesam Shams. Here you can also find all the code that we used to generate the probability dominance plots.
+This repository contains the experimental data used in the paper "Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling" by O.V. Shylo and H. Shams. Here you can also find the code for generating the probability dominance plots.
 
-The data is located in the folder =data=, while the code for generating the plots is in the jupyter notebook file =generate-plots.ipynb=. The file =generate-plots.py= was exported from this notebook. 
+The data is located in the folder =data=, while the code for generating the plots is in the jupyter notebook file =generate-plots.ipynb=. The file =analyze-regression.ipynb= provides the code for generating the accuracy plots for the logistic regression.
 
 * Performance log file structure 
 Below is the snapshot of the typical log file that we use to compare algorithms.
