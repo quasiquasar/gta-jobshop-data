@@ -1,0 +1,17 @@
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2036,6,0
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2034,17,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2031,17,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2026,17,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2025,19,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2024,19,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2023,19,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2022,26,1
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2021,38,2
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2019,38,2
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2018,38,2
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2017,38,2
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2016,38,2
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2015,49,3
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2014,99,6
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2013,99,6
+gta,gtacurvetime,ta45.txt,165,0,3909417437,2013,1801,110

@@ -1,0 +1,10 @@
+stabu,tabutime,ta11.txt,34,0,1409169153,1380,6,0
+stabu,tabutime,ta11.txt,34,0,1409169153,1378,18,2
+stabu,tabutime,ta11.txt,34,0,1409169153,1376,37,5
+stabu,tabutime,ta11.txt,34,0,1409169153,1375,46,6
+stabu,tabutime,ta11.txt,34,0,1409169153,1373,46,6
+stabu,tabutime,ta11.txt,34,0,1409169153,1372,109,15
+stabu,tabutime,ta11.txt,34,0,1409169153,1371,109,15
+stabu,tabutime,ta11.txt,34,0,1409169153,1368,133,18
+stabu,tabutime,ta11.txt,34,0,1409169153,1367,133,18
+stabu,tabutime,ta11.txt,34,0,1409169153,1367,1801,250

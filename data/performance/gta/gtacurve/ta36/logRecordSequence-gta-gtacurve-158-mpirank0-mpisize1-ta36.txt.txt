@@ -1,0 +1,14 @@
+gta,gtacurve,ta36.txt,158,0,41362310,1836,6,0
+gta,gtacurve,ta36.txt,158,0,41362310,1835,10,0
+gta,gtacurve,ta36.txt,158,0,41362310,1834,10,0
+gta,gtacurve,ta36.txt,158,0,41362310,1830,14,0
+gta,gtacurve,ta36.txt,158,0,41362310,1829,14,0
+gta,gtacurve,ta36.txt,158,0,41362310,1828,14,0
+gta,gtacurve,ta36.txt,158,0,41362310,1827,26,1
+gta,gtacurve,ta36.txt,158,0,41362310,1826,34,2
+gta,gtacurve,ta36.txt,158,0,41362310,1824,34,2
+gta,gtacurve,ta36.txt,158,0,41362310,1823,34,2
+gta,gtacurve,ta36.txt,158,0,41362310,1821,162,10
+gta,gtacurve,ta36.txt,158,0,41362310,1820,162,10
+gta,gtacurve,ta36.txt,158,0,41362310,1819,340,21
+gta,gtacurve,ta36.txt,158,0,41362310,1819,3242,200

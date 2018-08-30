@@ -1,0 +1,17 @@
+stabu,tabutime,ta32.txt,68,0,3135443240,1831,6,0
+stabu,tabutime,ta32.txt,68,0,3135443240,1830,6,0
+stabu,tabutime,ta32.txt,68,0,3135443240,1829,6,0
+stabu,tabutime,ta32.txt,68,0,3135443240,1827,6,0
+stabu,tabutime,ta32.txt,68,0,3135443240,1825,38,2
+stabu,tabutime,ta32.txt,68,0,3135443240,1822,159,10
+stabu,tabutime,ta32.txt,68,0,3135443240,1821,193,12
+stabu,tabutime,ta32.txt,68,0,3135443240,1820,193,12
+stabu,tabutime,ta32.txt,68,0,3135443240,1818,193,12
+stabu,tabutime,ta32.txt,68,0,3135443240,1816,193,12
+stabu,tabutime,ta32.txt,68,0,3135443240,1815,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1814,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1812,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1811,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1809,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1808,1012,66
+stabu,tabutime,ta32.txt,68,0,3135443240,1808,1801,118

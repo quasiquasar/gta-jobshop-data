@@ -1,0 +1,7 @@
+stabu,tabutime,ta23.txt,120,0,3003925359,1575,6,0
+stabu,tabutime,ta23.txt,120,0,3003925359,1573,6,0
+stabu,tabutime,ta23.txt,120,0,3003925359,1569,6,0
+stabu,tabutime,ta23.txt,120,0,3003925359,1568,6,0
+stabu,tabutime,ta23.txt,120,0,3003925359,1567,6,0
+stabu,tabutime,ta23.txt,120,0,3003925359,1565,301,27
+stabu,tabutime,ta23.txt,120,0,3003925359,1565,1801,163

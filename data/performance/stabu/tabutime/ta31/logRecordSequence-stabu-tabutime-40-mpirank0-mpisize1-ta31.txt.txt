@@ -1,0 +1,4 @@
+stabu,tabutime,ta31.txt,40,0,1722039307,1766,6,0
+stabu,tabutime,ta31.txt,40,0,1722039307,1765,9,0
+stabu,tabutime,ta31.txt,40,0,1722039307,1764,9,0
+stabu,tabutime,ta31.txt,40,0,1722039307,1764,1801,119

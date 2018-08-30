@@ -1,0 +1,5 @@
+gta,gtacurvetime,ta14.txt,141,0,1601052328,1349,6,0
+gta,gtacurvetime,ta14.txt,141,0,1601052328,1347,18,2
+gta,gtacurvetime,ta14.txt,141,0,1601052328,1346,25,3
+gta,gtacurvetime,ta14.txt,141,0,1601052328,1345,47,6
+gta,gtacurvetime,ta14.txt,141,0,1601052328,1345,1801,227

@@ -1,0 +1,11 @@
+gta,gtacurvetime,ta16.txt,203,0,871250611,1375,6,0
+gta,gtacurvetime,ta16.txt,203,0,871250611,1374,101,14
+gta,gtacurvetime,ta16.txt,203,0,871250611,1372,183,25
+gta,gtacurvetime,ta16.txt,203,0,871250611,1370,183,25
+gta,gtacurvetime,ta16.txt,203,0,871250611,1369,183,25
+gta,gtacurvetime,ta16.txt,203,0,871250611,1365,183,25
+gta,gtacurvetime,ta16.txt,203,0,871250611,1364,1136,154
+gta,gtacurvetime,ta16.txt,203,0,871250611,1362,1140,155
+gta,gtacurvetime,ta16.txt,203,0,871250611,1361,1140,155
+gta,gtacurvetime,ta16.txt,203,0,871250611,1360,1348,181
+gta,gtacurvetime,ta16.txt,203,0,871250611,1360,1801,223

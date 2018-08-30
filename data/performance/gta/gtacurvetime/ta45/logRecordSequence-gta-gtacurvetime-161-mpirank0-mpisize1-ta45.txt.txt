@@ -1,0 +1,6 @@
+gta,gtacurvetime,ta45.txt,161,0,317938883,2021,6,0
+gta,gtacurvetime,ta45.txt,161,0,317938883,2019,25,1
+gta,gtacurvetime,ta45.txt,161,0,317938883,2016,25,1
+gta,gtacurvetime,ta45.txt,161,0,317938883,2015,38,2
+gta,gtacurvetime,ta45.txt,161,0,317938883,2013,53,3
+gta,gtacurvetime,ta45.txt,161,0,317938883,2013,1801,105

@@ -1,0 +1,16 @@
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1985,6,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1984,6,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1983,6,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1981,7,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1980,7,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1979,8,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1977,8,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1975,8,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1972,8,0
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1971,12,1
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1970,12,1
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1966,12,1
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1965,1590,133
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1964,1590,133
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1962,1597,133
+gta,gtacurvetime,ta42.txt,63,0,1901786518,1962,1801,148

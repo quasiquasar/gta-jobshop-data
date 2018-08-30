@@ -1,0 +1,9 @@
+stabu,tabutime,ta14.txt,160,0,1645404528,1355,6,0
+stabu,tabutime,ta14.txt,160,0,1645404528,1354,13,1
+stabu,tabutime,ta14.txt,160,0,1645404528,1353,13,1
+stabu,tabutime,ta14.txt,160,0,1645404528,1351,25,3
+stabu,tabutime,ta14.txt,160,0,1645404528,1350,27,3
+stabu,tabutime,ta14.txt,160,0,1645404528,1348,27,3
+stabu,tabutime,ta14.txt,160,0,1645404528,1346,32,4
+stabu,tabutime,ta14.txt,160,0,1645404528,1345,42,6
+stabu,tabutime,ta14.txt,160,0,1645404528,1345,1801,249

@@ -1,0 +1,7 @@
+stabu,tabutime,ta16.txt,218,0,2157277213,1379,6,0
+stabu,tabutime,ta16.txt,218,0,2157277213,1377,20,2
+stabu,tabutime,ta16.txt,218,0,2157277213,1376,31,4
+stabu,tabutime,ta16.txt,218,0,2157277213,1374,34,5
+stabu,tabutime,ta16.txt,218,0,2157277213,1373,341,50
+stabu,tabutime,ta16.txt,218,0,2157277213,1370,1065,157
+stabu,tabutime,ta16.txt,218,0,2157277213,1370,1801,266

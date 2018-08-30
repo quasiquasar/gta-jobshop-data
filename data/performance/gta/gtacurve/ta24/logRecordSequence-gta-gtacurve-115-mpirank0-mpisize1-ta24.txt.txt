@@ -1,0 +1,14 @@
+gta,gtacurve,ta24.txt,115,0,146600406,1682,6,0
+gta,gtacurve,ta24.txt,115,0,146600406,1681,14,1
+gta,gtacurve,ta24.txt,115,0,146600406,1680,14,1
+gta,gtacurve,ta24.txt,115,0,146600406,1679,14,1
+gta,gtacurve,ta24.txt,115,0,146600406,1677,14,1
+gta,gtacurve,ta24.txt,115,0,146600406,1675,15,1
+gta,gtacurve,ta24.txt,115,0,146600406,1674,50,4
+gta,gtacurve,ta24.txt,115,0,146600406,1669,50,4
+gta,gtacurve,ta24.txt,115,0,146600406,1668,50,4
+gta,gtacurve,ta24.txt,115,0,146600406,1667,50,4
+gta,gtacurve,ta24.txt,115,0,146600406,1662,51,4
+gta,gtacurve,ta24.txt,115,0,146600406,1659,51,4
+gta,gtacurve,ta24.txt,115,0,146600406,1654,643,56
+gta,gtacurve,ta24.txt,115,0,146600406,1654,2397,200

@@ -1,0 +1,16 @@
+stabu,tabutime,ta42.txt,66,0,3428421682,1982,6,0
+stabu,tabutime,ta42.txt,66,0,3428421682,1979,7,0
+stabu,tabutime,ta42.txt,66,0,3428421682,1977,7,0
+stabu,tabutime,ta42.txt,66,0,3428421682,1976,13,1
+stabu,tabutime,ta42.txt,66,0,3428421682,1975,13,1
+stabu,tabutime,ta42.txt,66,0,3428421682,1974,24,2
+stabu,tabutime,ta42.txt,66,0,3428421682,1973,134,12
+stabu,tabutime,ta42.txt,66,0,3428421682,1968,134,12
+stabu,tabutime,ta42.txt,66,0,3428421682,1967,199,18
+stabu,tabutime,ta42.txt,66,0,3428421682,1966,199,18
+stabu,tabutime,ta42.txt,66,0,3428421682,1964,1244,112
+stabu,tabutime,ta42.txt,66,0,3428421682,1963,1244,112
+stabu,tabutime,ta42.txt,66,0,3428421682,1962,1244,112
+stabu,tabutime,ta42.txt,66,0,3428421682,1961,1244,112
+stabu,tabutime,ta42.txt,66,0,3428421682,1960,1244,112
+stabu,tabutime,ta42.txt,66,0,3428421682,1960,1801,162

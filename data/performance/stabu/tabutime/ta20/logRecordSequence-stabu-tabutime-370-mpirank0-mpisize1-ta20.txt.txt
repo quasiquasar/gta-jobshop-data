@@ -1,0 +1,5 @@
+stabu,tabutime,ta20.txt,370,0,4036415133,1365,6,0
+stabu,tabutime,ta20.txt,370,0,4036415133,1364,59,9
+stabu,tabutime,ta20.txt,370,0,4036415133,1363,69,10
+stabu,tabutime,ta20.txt,370,0,4036415133,1357,840,126
+stabu,tabutime,ta20.txt,370,0,4036415133,1357,1801,263

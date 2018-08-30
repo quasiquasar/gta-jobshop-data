@@ -1,0 +1,2 @@
+gta,gtacurvetime,ta29.txt,329,0,2536729054,1629,6,0
+gta,gtacurvetime,ta29.txt,329,0,2536729054,1629,1801,161

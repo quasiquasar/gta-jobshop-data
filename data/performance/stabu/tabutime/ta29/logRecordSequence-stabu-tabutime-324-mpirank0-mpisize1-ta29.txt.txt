@@ -1,0 +1,9 @@
+stabu,tabutime,ta29.txt,324,0,4227063271,1638,6,0
+stabu,tabutime,ta29.txt,324,0,4227063271,1637,8,0
+stabu,tabutime,ta29.txt,324,0,4227063271,1636,8,0
+stabu,tabutime,ta29.txt,324,0,4227063271,1634,8,0
+stabu,tabutime,ta29.txt,324,0,4227063271,1633,8,0
+stabu,tabutime,ta29.txt,324,0,4227063271,1632,122,11
+stabu,tabutime,ta29.txt,324,0,4227063271,1630,274,27
+stabu,tabutime,ta29.txt,324,0,4227063271,1628,274,27
+stabu,tabutime,ta29.txt,324,0,4227063271,1628,1801,177

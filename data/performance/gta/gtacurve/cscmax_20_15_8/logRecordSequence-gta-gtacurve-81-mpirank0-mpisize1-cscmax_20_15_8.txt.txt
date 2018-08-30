@@ -1,0 +1,14 @@
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3499,6,0
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3493,312,33
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3492,312,33
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3489,312,33
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3488,346,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3481,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3480,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3478,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3475,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3468,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3467,351,37
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3463,795,85
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3461,795,85
+gta,gtacurve,cscmax_20_15_8.txt,81,0,1517873584,3461,1987,200

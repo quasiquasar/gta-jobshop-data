@@ -1,0 +1,10 @@
+stabu,tabutime,ta28.txt,310,0,94981997,1633,6,0
+stabu,tabutime,ta28.txt,310,0,94981997,1630,11,1
+stabu,tabutime,ta28.txt,310,0,94981997,1629,11,1
+stabu,tabutime,ta28.txt,310,0,94981997,1628,22,2
+stabu,tabutime,ta28.txt,310,0,94981997,1626,24,2
+stabu,tabutime,ta28.txt,310,0,94981997,1623,24,2
+stabu,tabutime,ta28.txt,310,0,94981997,1620,64,6
+stabu,tabutime,ta28.txt,310,0,94981997,1617,64,6
+stabu,tabutime,ta28.txt,310,0,94981997,1615,814,77
+stabu,tabutime,ta28.txt,310,0,94981997,1615,1801,172

@@ -1,0 +1,7 @@
+stabu,tabutime,ta22.txt,60,0,395394898,1616,6,0
+stabu,tabutime,ta22.txt,60,0,395394898,1614,1188,107
+stabu,tabutime,ta22.txt,60,0,395394898,1613,1188,107
+stabu,tabutime,ta22.txt,60,0,395394898,1611,1188,107
+stabu,tabutime,ta22.txt,60,0,395394898,1610,1188,107
+stabu,tabutime,ta22.txt,60,0,395394898,1609,1188,107
+stabu,tabutime,ta22.txt,60,0,395394898,1609,1801,163

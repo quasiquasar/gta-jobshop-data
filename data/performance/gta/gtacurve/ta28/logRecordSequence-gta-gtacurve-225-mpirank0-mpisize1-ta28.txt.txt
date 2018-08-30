@@ -1,0 +1,7 @@
+gta,gtacurve,ta28.txt,225,0,445740531,1632,6,0
+gta,gtacurve,ta28.txt,225,0,445740531,1629,9,0
+gta,gtacurve,ta28.txt,225,0,445740531,1628,9,0
+gta,gtacurve,ta28.txt,225,0,445740531,1623,9,0
+gta,gtacurve,ta28.txt,225,0,445740531,1617,10,0
+gta,gtacurve,ta28.txt,225,0,445740531,1615,1385,120
+gta,gtacurve,ta28.txt,225,0,445740531,1615,2439,200

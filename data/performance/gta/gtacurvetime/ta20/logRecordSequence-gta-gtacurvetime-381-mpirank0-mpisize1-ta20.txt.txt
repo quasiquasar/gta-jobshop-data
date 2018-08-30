@@ -1,0 +1,7 @@
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1367,6,0
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1364,61,8
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1359,136,19
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1358,136,19
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1356,136,19
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1355,136,19
+gta,gtacurvetime,ta20.txt,381,0,1026753881,1355,1801,242

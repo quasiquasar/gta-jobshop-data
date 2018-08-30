@@ -1,0 +1,10 @@
+gta,gtacurve,ta45.txt,127,0,2195547512,2028,6,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2027,6,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2024,6,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2023,7,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2022,7,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2021,7,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2018,7,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2015,8,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2013,8,0
+gta,gtacurve,ta45.txt,127,0,2195547512,2013,3765,200

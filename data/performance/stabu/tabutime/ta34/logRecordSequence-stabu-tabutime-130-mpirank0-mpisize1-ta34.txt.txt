@@ -1,0 +1,8 @@
+stabu,tabutime,ta34.txt,130,0,4184344918,1842,6,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1841,10,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1837,10,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1836,11,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1834,13,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1833,13,0
+stabu,tabutime,ta34.txt,130,0,4184344918,1832,150,11
+stabu,tabutime,ta34.txt,130,0,4184344918,1832,1801,142

@@ -1,0 +1,7 @@
+stabu,tabutime,ta11.txt,20,0,941873428,1375,6,0
+stabu,tabutime,ta11.txt,20,0,941873428,1374,36,4
+stabu,tabutime,ta11.txt,20,0,941873428,1373,69,9
+stabu,tabutime,ta11.txt,20,0,941873428,1372,69,9
+stabu,tabutime,ta11.txt,20,0,941873428,1368,69,9
+stabu,tabutime,ta11.txt,20,0,941873428,1367,69,9
+stabu,tabutime,ta11.txt,20,0,941873428,1367,1801,242

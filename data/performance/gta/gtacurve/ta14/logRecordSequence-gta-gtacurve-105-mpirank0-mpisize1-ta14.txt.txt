@@ -1,0 +1,7 @@
+gta,gtacurve,ta14.txt,105,0,3700066436,1353,6,0
+gta,gtacurve,ta14.txt,105,0,3700066436,1352,6,0
+gta,gtacurve,ta14.txt,105,0,3700066436,1350,6,0
+gta,gtacurve,ta14.txt,105,0,3700066436,1349,6,0
+gta,gtacurve,ta14.txt,105,0,3700066436,1347,16,1
+gta,gtacurve,ta14.txt,105,0,3700066436,1345,16,1
+gta,gtacurve,ta14.txt,105,0,3700066436,1345,1751,200

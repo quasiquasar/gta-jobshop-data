@@ -1,0 +1,6 @@
+stabu,tabutime,ta12.txt,42,0,3579908087,1379,6,0
+stabu,tabutime,ta12.txt,42,0,3579908087,1378,57,8
+stabu,tabutime,ta12.txt,42,0,3579908087,1377,109,15
+stabu,tabutime,ta12.txt,42,0,3579908087,1374,212,30
+stabu,tabutime,ta12.txt,42,0,3579908087,1373,212,30
+stabu,tabutime,ta12.txt,42,0,3579908087,1373,1801,254

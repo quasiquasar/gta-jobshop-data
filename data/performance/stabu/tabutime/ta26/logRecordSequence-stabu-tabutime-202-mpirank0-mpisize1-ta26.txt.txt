@@ -1,0 +1,7 @@
+stabu,tabutime,ta26.txt,202,0,2229766089,1671,6,0
+stabu,tabutime,ta26.txt,202,0,2229766089,1670,28,2
+stabu,tabutime,ta26.txt,202,0,2229766089,1666,29,2
+stabu,tabutime,ta26.txt,202,0,2229766089,1663,29,2
+stabu,tabutime,ta26.txt,202,0,2229766089,1657,39,3
+stabu,tabutime,ta26.txt,202,0,2229766089,1655,39,3
+stabu,tabutime,ta26.txt,202,0,2229766089,1655,1801,168

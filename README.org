@@ -1,0 +1,101 @@
+#+TITLE: Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling
+#+AUTHOR: Oleg Shylo, Hesam Shams
+#+EMAIL: 
+#+DATE: 
+#+OPTIONS:   H:5 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t author:nil 
+
+* Experimental Data from "Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling"
+
+This repository contains all computational data used in the paper "Boosting Binary Optimization via Binary Classification: A Case Study of Job Shop Scheduling" by Oleg V. Shylo and Hesam Shams. Here you can also find all the code that we used to generate the probability dominance plots.
+
+The data is located in the folder =data=, while the code for generating the plots is in the jupyter notebook file =generate-plots.ipynb=. The file =generate-plots.py= was exported from this notebook. 
+
+* Performance log file structure 
+Below is the snapshot of the typical log file that we use to compare algorithms.
+#+BEGIN_SRC python :exports results :results output :eval yes 
+import pandas as pd
+data = pd.read_csv("data/performance/gta/gtacurve/ta11/logRecordSequence-gta-gtacurve-10-mpirank0-mpisize1-ta11.txt.txt", header=None)
+colnames=['algo','expid','problem','runid','mpirank','seed','obj','time','epoch']
+data.columns = colnames
+print(data.head())
+#+END_SRC
+
+#+RESULTS:
+:   algo     expid   problem  runid  mpirank        seed   obj  time  epoch
+: 0  gta  gtacurve  ta11.txt     10        0  1168868254  1395     6      0
+: 1  gta  gtacurve  ta11.txt     10        0  1168868254  1394     9      1
+: 2  gta  gtacurve  ta11.txt     10        0  1168868254  1393    10      1
+: 3  gta  gtacurve  ta11.txt     10        0  1168868254  1392    12      1
+: 4  gta  gtacurve  ta11.txt     10        0  1168868254  1391    12      1
+
+The columns are described in the following table. 
+
+|---------+-------------------------------------------------------------------|
+| column  | description                                                       |
+|---------+-------------------------------------------------------------------|
+| algo    | algorithm name                                                    |
+| expid   | name of the experiment                                            |
+| problem | problem name                                                      |
+| runid   | id of the run (there may be two distinct runs with the same id)   |
+| mpirank | not used                                                          |
+| seed    | random initialization seed (unique for each distinct run)         |
+| obj     | objective value of the solution that was found                    |
+| time    | total seconds after the start, when the above objective was found |
+| epoch   | epoch number, when the above objective was found                  |
+|---------+-------------------------------------------------------------------|
+
+For the =gta= algorithm, the experiment id =gtacurve= corresponds to the runs that were limited to 200 epochs. The experiment id =gtacurvetime= corresponds to the runs that were limited to 30 minutes. The experiment =gtacurve0001= corresponds to the last experiment described in the paper (changed theta-min to 0.0001). 
+
+For the =stabu= algorithm, the experiment id =tabu0= corresponds to the runs that were limited to 200 epochs. The experiment id =tabutime= corresponds to the runs that were limited to 30 minutes.
+
+** Structure of the =data/performance= folder
+
+All the performance log files are located in the =data/performance= folder. There is a subfolder for each algorithm, each experiment id and each problem instance.
+
+For example, the folder =data/performance/gta/gtacurve/ta11/=, contains all the logs by the algorithm =gta= with experiment id =gtacurve=, when used on the problem =ta11=.  
+
+* Logistic regression log file structure
+
+Below is the snapshot of the typical log file that we use to plot the optimal regression parameters.
+
+#+BEGIN_SRC python :exports results :results output :eval yes 
+import pandas as pd
+data = pd.read_csv("data/onlineregression/stabu/tabu0/ta48/logRegressionCoeff-stabu-tabu0-141-mpirank0-mpisize1-ta48.txt.txt", header=None)
+colnames = ['algo','expid','problem','runid','seed','time','epoch','muopt','accuracy'] 
+data.columns = colnames
+print(data.head())
+#+END_SRC
+
+#+RESULTS:
+:     algo  expid   problem  runid    ...     time  epoch     muopt  accuracy
+: 0  stabu  tabu0  ta48.txt    141    ...        9      1  0.009183  0.714767
+: 1  stabu  tabu0  ta48.txt    141    ...       19      2  0.012534  0.713215
+: 2  stabu  tabu0  ta48.txt    141    ...       29      3  0.020770  0.734721
+: 3  stabu  tabu0  ta48.txt    141    ...       39      4  0.025433  0.749809
+: 4  stabu  tabu0  ta48.txt    141    ...       48      5  0.033475  0.750561
+: 
+: [5 rows x 9 columns]
+
+The columns are described in the following table. 
+
+|----------+---------------------------------------------------------------------------------|
+| column   | description                                                                     |
+|----------+---------------------------------------------------------------------------------|
+| algo     | algorithm name                                                                  |
+| expid    | name of the experiment                                                          |
+| problem  | problem name                                                                    |
+| runid    | id of the run (there may be two distinct runs with the same id)                 |
+| seed     | random initialization seed (unique for each distinct run)                       |
+| time     | total seconds after the start, when the optimal logreg parameter was calculated |
+| epoch    | epoch number, when the optimal logreg parameter was calculated                  |
+| muopt    | optimal logreg parameter found at the above time/epoch stamps) |
+| accuracy | accuracy of the logistic regression at the above time/epoch                     |
+|----------+---------------------------------------------------------------------------------|
+
+** Structure of the =data/onlineregression= folder
+
+All the regression log files are located in the =data/onlineregression= folder. There is a subfolder for each algorithm, each experiment id and each problem instance.
+
+For example, the folder =data/onlineregression/stabu/tabu0/ta11/=, contains all the logistic regression logs by the algorithm =stabu= with experiment id =tabu0=, when used on the problem =ta11=.  
+
+

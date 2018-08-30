@@ -1,0 +1,2 @@
+gta,gtacurvetime,ta35.txt,197,0,1899311633,2007,6,0
+gta,gtacurvetime,ta35.txt,197,0,1899311633,2007,1801,142

@@ -1,0 +1,3 @@
+stabu,tabutime,ta14.txt,134,0,3961026958,1347,6,0
+stabu,tabutime,ta14.txt,134,0,3961026958,1345,8,1
+stabu,tabutime,ta14.txt,134,0,3961026958,1345,1801,260

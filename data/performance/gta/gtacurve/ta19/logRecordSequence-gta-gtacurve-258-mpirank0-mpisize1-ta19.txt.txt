@@ -1,0 +1,14 @@
+gta,gtacurve,ta19.txt,258,0,32331131,1358,6,0
+gta,gtacurve,ta19.txt,258,0,32331131,1353,13,1
+gta,gtacurve,ta19.txt,258,0,32331131,1351,13,1
+gta,gtacurve,ta19.txt,258,0,32331131,1350,66,7
+gta,gtacurve,ta19.txt,258,0,32331131,1348,66,7
+gta,gtacurve,ta19.txt,258,0,32331131,1347,66,7
+gta,gtacurve,ta19.txt,258,0,32331131,1345,66,7
+gta,gtacurve,ta19.txt,258,0,32331131,1344,94,11
+gta,gtacurve,ta19.txt,258,0,32331131,1343,94,11
+gta,gtacurve,ta19.txt,258,0,32331131,1342,723,85
+gta,gtacurve,ta19.txt,258,0,32331131,1341,723,85
+gta,gtacurve,ta19.txt,258,0,32331131,1340,1236,140
+gta,gtacurve,ta19.txt,258,0,32331131,1337,1381,155
+gta,gtacurve,ta19.txt,258,0,32331131,1337,1896,200

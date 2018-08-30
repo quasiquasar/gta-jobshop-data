@@ -1,0 +1,12 @@
+stabu,tabutime,ta22.txt,48,0,4243147272,1628,6,0
+stabu,tabutime,ta22.txt,48,0,4243147272,1625,137,12
+stabu,tabutime,ta22.txt,48,0,4243147272,1624,139,12
+stabu,tabutime,ta22.txt,48,0,4243147272,1622,139,12
+stabu,tabutime,ta22.txt,48,0,4243147272,1621,140,12
+stabu,tabutime,ta22.txt,48,0,4243147272,1619,140,12
+stabu,tabutime,ta22.txt,48,0,4243147272,1617,196,17
+stabu,tabutime,ta22.txt,48,0,4243147272,1616,196,17
+stabu,tabutime,ta22.txt,48,0,4243147272,1614,249,22
+stabu,tabutime,ta22.txt,48,0,4243147272,1613,249,22
+stabu,tabutime,ta22.txt,48,0,4243147272,1612,249,22
+stabu,tabutime,ta22.txt,48,0,4243147272,1612,1801,164

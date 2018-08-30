@@ -1,0 +1,5 @@
+stabu,tabutime,ta27.txt,246,0,968023323,1697,6,0
+stabu,tabutime,ta27.txt,246,0,968023323,1693,89,9
+stabu,tabutime,ta27.txt,246,0,968023323,1690,91,9
+stabu,tabutime,ta27.txt,246,0,968023323,1689,1363,146
+stabu,tabutime,ta27.txt,246,0,968023323,1689,1801,193

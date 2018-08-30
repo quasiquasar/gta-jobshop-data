@@ -1,0 +1,13 @@
+stabu,tabutime,ta45.txt,192,0,688299706,2026,6,0
+stabu,tabutime,ta45.txt,192,0,688299706,2022,8,0
+stabu,tabutime,ta45.txt,192,0,688299706,2021,8,0
+stabu,tabutime,ta45.txt,192,0,688299706,2020,11,0
+stabu,tabutime,ta45.txt,192,0,688299706,2019,11,0
+stabu,tabutime,ta45.txt,192,0,688299706,2017,11,0
+stabu,tabutime,ta45.txt,192,0,688299706,2016,16,1
+stabu,tabutime,ta45.txt,192,0,688299706,2015,16,1
+stabu,tabutime,ta45.txt,192,0,688299706,2014,16,1
+stabu,tabutime,ta45.txt,192,0,688299706,2013,82,5
+stabu,tabutime,ta45.txt,192,0,688299706,2012,1616,104
+stabu,tabutime,ta45.txt,192,0,688299706,2011,1616,104
+stabu,tabutime,ta45.txt,192,0,688299706,2011,1801,116

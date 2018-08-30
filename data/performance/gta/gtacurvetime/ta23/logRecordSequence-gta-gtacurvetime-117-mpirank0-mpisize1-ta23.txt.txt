@@ -1,0 +1,7 @@
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1573,6,0
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1572,13,1
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1568,81,7
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1567,532,49
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1565,604,56
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1564,1277,118
+gta,gtacurvetime,ta23.txt,117,0,4052878426,1564,1801,161

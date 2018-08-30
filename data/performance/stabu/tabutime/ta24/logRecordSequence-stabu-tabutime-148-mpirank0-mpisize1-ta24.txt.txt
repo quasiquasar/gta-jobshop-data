@@ -1,0 +1,4 @@
+stabu,tabutime,ta24.txt,148,0,953781833,1657,6,0
+stabu,tabutime,ta24.txt,148,0,953781833,1656,323,32
+stabu,tabutime,ta24.txt,148,0,953781833,1654,323,32
+stabu,tabutime,ta24.txt,148,0,953781833,1654,1801,183

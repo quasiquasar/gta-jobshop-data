@@ -1,0 +1,16 @@
+stabu,tabutime,ta13.txt,82,0,3642008220,1369,6,0
+stabu,tabutime,ta13.txt,82,0,3642008220,1368,15,2
+stabu,tabutime,ta13.txt,82,0,3642008220,1367,15,2
+stabu,tabutime,ta13.txt,82,0,3642008220,1366,15,2
+stabu,tabutime,ta13.txt,82,0,3642008220,1365,15,2
+stabu,tabutime,ta13.txt,82,0,3642008220,1364,15,2
+stabu,tabutime,ta13.txt,82,0,3642008220,1363,23,3
+stabu,tabutime,ta13.txt,82,0,3642008220,1362,23,3
+stabu,tabutime,ta13.txt,82,0,3642008220,1361,35,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1360,36,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1359,36,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1358,36,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1355,36,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1351,36,5
+stabu,tabutime,ta13.txt,82,0,3642008220,1350,1352,197
+stabu,tabutime,ta13.txt,82,0,3642008220,1350,1801,262

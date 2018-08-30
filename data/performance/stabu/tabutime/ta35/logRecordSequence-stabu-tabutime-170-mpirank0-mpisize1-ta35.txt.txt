@@ -1,0 +1,2 @@
+stabu,tabutime,ta35.txt,170,0,1242929644,2007,6,0
+stabu,tabutime,ta35.txt,170,0,1242929644,2007,1801,152

@@ -1,0 +1,9 @@
+gta,gtacurve,ta11.txt,28,0,1147318658,1383,6,0
+gta,gtacurve,ta11.txt,28,0,1147318658,1380,6,0
+gta,gtacurve,ta11.txt,28,0,1147318658,1379,6,0
+gta,gtacurve,ta11.txt,28,0,1147318658,1375,18,1
+gta,gtacurve,ta11.txt,28,0,1147318658,1374,18,1
+gta,gtacurve,ta11.txt,28,0,1147318658,1373,147,16
+gta,gtacurve,ta11.txt,28,0,1147318658,1371,496,56
+gta,gtacurve,ta11.txt,28,0,1147318658,1370,496,56
+gta,gtacurve,ta11.txt,28,0,1147318658,1370,1760,200

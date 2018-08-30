@@ -1,0 +1,8 @@
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1807,6,0
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1806,15,1
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1804,82,5
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1799,128,8
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1798,128,8
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1796,470,31
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1795,470,31
+gta,gtacurvetime,ta39.txt,357,0,3768332490,1795,1801,119

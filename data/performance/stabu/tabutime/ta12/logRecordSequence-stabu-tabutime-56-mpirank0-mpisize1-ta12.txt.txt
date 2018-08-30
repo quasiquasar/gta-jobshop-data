@@ -1,0 +1,11 @@
+stabu,tabutime,ta12.txt,56,0,1594964108,1386,6,0
+stabu,tabutime,ta12.txt,56,0,1594964108,1385,12,1
+stabu,tabutime,ta12.txt,56,0,1594964108,1384,12,1
+stabu,tabutime,ta12.txt,56,0,1594964108,1383,12,1
+stabu,tabutime,ta12.txt,56,0,1594964108,1382,12,1
+stabu,tabutime,ta12.txt,56,0,1594964108,1381,12,1
+stabu,tabutime,ta12.txt,56,0,1594964108,1377,17,2
+stabu,tabutime,ta12.txt,56,0,1594964108,1376,392,54
+stabu,tabutime,ta12.txt,56,0,1594964108,1375,765,107
+stabu,tabutime,ta12.txt,56,0,1594964108,1373,1246,174
+stabu,tabutime,ta12.txt,56,0,1594964108,1373,1801,252

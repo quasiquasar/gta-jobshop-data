@@ -1,0 +1,12 @@
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3455,6,0
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3453,8,0
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3448,43,4
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3447,43,4
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3439,97,10
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3437,97,10
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3436,97,10
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3435,97,10
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3433,461,50
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3425,608,66
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3420,608,66
+stabu,tabu0,cscmax_20_15_5.txt,26,0,405156398,3420,1832,200

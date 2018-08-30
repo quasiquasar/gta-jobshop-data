@@ -1,0 +1,4 @@
+gta,gtacurvetime,ta30.txt,365,0,4151380259,1602,6,0
+gta,gtacurvetime,ta30.txt,365,0,4151380259,1599,502,45
+gta,gtacurvetime,ta30.txt,365,0,4151380259,1598,1317,118
+gta,gtacurvetime,ta30.txt,365,0,4151380259,1598,1801,156

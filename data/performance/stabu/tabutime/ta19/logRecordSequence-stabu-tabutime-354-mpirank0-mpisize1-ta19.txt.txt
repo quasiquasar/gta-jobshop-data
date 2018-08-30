@@ -1,0 +1,7 @@
+stabu,tabutime,ta19.txt,354,0,1418424494,1348,6,0
+stabu,tabutime,ta19.txt,354,0,1418424494,1347,24,3
+stabu,tabutime,ta19.txt,354,0,1418424494,1346,45,6
+stabu,tabutime,ta19.txt,354,0,1418424494,1345,45,6
+stabu,tabutime,ta19.txt,354,0,1418424494,1343,45,6
+stabu,tabutime,ta19.txt,354,0,1418424494,1341,834,114
+stabu,tabutime,ta19.txt,354,0,1418424494,1341,1801,250

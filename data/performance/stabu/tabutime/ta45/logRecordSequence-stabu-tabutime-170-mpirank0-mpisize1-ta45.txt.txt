@@ -1,0 +1,16 @@
+stabu,tabutime,ta45.txt,170,0,1661555462,2030,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2029,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2025,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2023,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2022,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2019,6,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2018,7,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2017,7,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2016,7,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2014,7,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2013,8,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2011,15,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2010,15,0
+stabu,tabutime,ta45.txt,170,0,1661555462,2007,24,1
+stabu,tabutime,ta45.txt,170,0,1661555462,2006,24,1
+stabu,tabutime,ta45.txt,170,0,1661555462,2006,1801,112

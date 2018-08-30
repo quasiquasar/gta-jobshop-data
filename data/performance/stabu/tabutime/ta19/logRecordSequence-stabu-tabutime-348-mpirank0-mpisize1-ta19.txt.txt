@@ -1,0 +1,10 @@
+stabu,tabutime,ta19.txt,348,0,820354308,1353,6,0
+stabu,tabutime,ta19.txt,348,0,820354308,1351,18,2
+stabu,tabutime,ta19.txt,348,0,820354308,1348,18,2
+stabu,tabutime,ta19.txt,348,0,820354308,1347,22,3
+stabu,tabutime,ta19.txt,348,0,820354308,1345,22,3
+stabu,tabutime,ta19.txt,348,0,820354308,1344,44,6
+stabu,tabutime,ta19.txt,348,0,820354308,1343,44,6
+stabu,tabutime,ta19.txt,348,0,820354308,1341,107,15
+stabu,tabutime,ta19.txt,348,0,820354308,1338,107,15
+stabu,tabutime,ta19.txt,348,0,820354308,1338,1801,261

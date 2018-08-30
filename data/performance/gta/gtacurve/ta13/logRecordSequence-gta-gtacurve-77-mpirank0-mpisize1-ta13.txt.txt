@@ -1,0 +1,16 @@
+gta,gtacurve,ta13.txt,77,0,278947793,1368,6,0
+gta,gtacurve,ta13.txt,77,0,278947793,1367,14,1
+gta,gtacurve,ta13.txt,77,0,278947793,1366,14,1
+gta,gtacurve,ta13.txt,77,0,278947793,1364,23,2
+gta,gtacurve,ta13.txt,77,0,278947793,1363,23,2
+gta,gtacurve,ta13.txt,77,0,278947793,1362,60,7
+gta,gtacurve,ta13.txt,77,0,278947793,1361,60,7
+gta,gtacurve,ta13.txt,77,0,278947793,1359,60,7
+gta,gtacurve,ta13.txt,77,0,278947793,1358,60,7
+gta,gtacurve,ta13.txt,77,0,278947793,1356,98,11
+gta,gtacurve,ta13.txt,77,0,278947793,1354,98,11
+gta,gtacurve,ta13.txt,77,0,278947793,1352,98,11
+gta,gtacurve,ta13.txt,77,0,278947793,1351,874,104
+gta,gtacurve,ta13.txt,77,0,278947793,1350,1011,120
+gta,gtacurve,ta13.txt,77,0,278947793,1349,1335,158
+gta,gtacurve,ta13.txt,77,0,278947793,1349,1738,200

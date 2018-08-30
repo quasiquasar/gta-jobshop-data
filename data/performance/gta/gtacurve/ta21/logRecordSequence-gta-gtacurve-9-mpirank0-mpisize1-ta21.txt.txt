@@ -1,0 +1,13 @@
+gta,gtacurve,ta21.txt,9,0,2135183248,1668,6,0
+gta,gtacurve,ta21.txt,9,0,2135183248,1667,7,0
+gta,gtacurve,ta21.txt,9,0,2135183248,1666,7,0
+gta,gtacurve,ta21.txt,9,0,2135183248,1664,7,0
+gta,gtacurve,ta21.txt,9,0,2135183248,1661,7,0
+gta,gtacurve,ta21.txt,9,0,2135183248,1658,18,1
+gta,gtacurve,ta21.txt,9,0,2135183248,1657,132,13
+gta,gtacurve,ta21.txt,9,0,2135183248,1652,404,40
+gta,gtacurve,ta21.txt,9,0,2135183248,1651,404,40
+gta,gtacurve,ta21.txt,9,0,2135183248,1650,859,86
+gta,gtacurve,ta21.txt,9,0,2135183248,1648,895,89
+gta,gtacurve,ta21.txt,9,0,2135183248,1647,895,89
+gta,gtacurve,ta21.txt,9,0,2135183248,1647,2193,200
